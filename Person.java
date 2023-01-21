@@ -1,3 +1,13 @@
+/**
+author: Julie Jiang
+date: 1/20/22
+name: party
+purpose: arrange attendees at 10 tables, each seating 10 people, with no more than one person from each company.  
+Up to 16 companies may be in attendance, 
+manage the seating arrangement, user has to be able to search for attendee w/ their table num, comp name, and seat num, 
+user can register person and see the table arrangments and people in each company
+*/
+
 //create 2d array with person number from people array, company number, table number
 
 public class Person {
