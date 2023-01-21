@@ -1,3 +1,13 @@
+/**
+author: Julie Jiang
+date: 1/20/22
+name: party
+purpose: arrange attendees at 10 tables, each seating 10 people, with no more than one person from each company.  
+Up to 16 companies may be in attendance, 
+manage the seating arrangement, user has to be able to search for attendee w/ their table num, comp name, and seat num, 
+user can register person and see the table arrangments and people in each company
+*/
+
 import java.util.*;
 import java.io.File;  // Import the File class
 import java.io.FileNotFoundException;  // Import this class to handle errors
